@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Meta Llama 3 70B",
+    "id": "llama3-70b-8192"
+  },
+  {
+    "name": "Meta Llama 3 8B",
+    "id": "llama3-8b-8192"
+  },
+  {
+    "name": "Mixtral 8x7B",
+    "id": "mixtral-8x7b-32768"
+  },
+  {
+    "name": "Gemma 7B",
+    "id": "gemma-7b-it"
+  },
+  {
+    "name": "Gemma 2 9B",
+    "id": "gemma2-9b-it"
+  }
+]

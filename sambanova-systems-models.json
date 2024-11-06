@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Meta-Llama-3.1-8B-Instruct",
+    "id": "Meta-Llama-3.1-8B-Instruct"
+  },
+  {
+    "name": "Meta-Llama-3.1-70B-Instruct",
+    "id": "Meta-Llama-3.1-70B-Instruct"
+  },
+  {
+    "name": "Meta-Llama-3.1-405B-Instruct",
+    "id": "Meta-Llama-3.1-405B-Instruct"
+  }
+]
