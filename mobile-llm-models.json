@@ -77,6 +77,83 @@
     }
   },
   {
+    "id": "Phi-3.5-mini-instruct.Q4_K_M.gguf",
+    "name": "Phi-3.5 mini 4k instruct (Q4_K_M)",
+    "type": "Phi",
+    "size": "2.39",
+    "params": "3.8",
+    "isDownloaded": false,
+    "downloadUrl": "https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF/resolve/main/Phi-3.5-mini-instruct.Q4_K_M.gguf?download=true",
+    "hfUrl": "https://huggingface.co/QuantFactory/Phi-3.5-mini-instruct-GGUF",
+    "progress": 0,
+    "filename": "Phi-3.5-mini-instruct.Q4_K_M.gguf",
+    "isLocal": false,
+    "defaultChatTemplate": {
+      "bosToken": "<s>",
+      "eosToken": "<|endoftext|>",
+      "addBosToken": false,
+      "addEosToken": false,
+      "chatTemplate": "{%- for message in messages -%}{%- if message.role == 'system' -%}{{- '<|system|>\\n' + message.content | trim + '<|end|>\\n' -}}{%- elif message.role == 'user' -%}{{- '<|user|>\\n' + message.content | trim + '<|end|>\\n' -}}{%- elif message.role == 'assistant' -%}{{- '<|assistant|>\\n' + message.content | trim + '<|end|>\\n' -}}{%- endif -%}{%- endfor -%}{%- if add_generation_prompt -%}{{- '<|assistant|>\\n' -}}{%- else -%}{{- eos_token -}}{%- endif -%}",
+      "name": "phi3",
+      "addGenerationPrompt": true,
+      "systemPrompt": "You are a helpful conversational chat assistant. You are precise, concise, and casual."
+    },
+    "chatTemplate": {
+      "bosToken": "<s>",
+      "eosToken": "<|endoftext|>",
+      "addBosToken": false,
+      "addEosToken": false,
+      "chatTemplate": "{%- for message in messages -%}{%- if message.role == 'system' -%}{{- '<|system|>\\n' + message.content | trim + '<|end|>\\n' -}}{%- elif message.role == 'user' -%}{{- '<|user|>\\n' + message.content | trim + '<|end|>\\n' -}}{%- elif message.role == 'assistant' -%}{{- '<|assistant|>\\n' + message.content | trim + '<|end|>\\n' -}}{%- endif -%}{%- endfor -%}{%- if add_generation_prompt -%}{{- '<|assistant|>\\n' -}}{%- else -%}{{- eos_token -}}{%- endif -%}",
+      "name": "phi3",
+      "addGenerationPrompt": true,
+      "systemPrompt": "You are a helpful conversational chat assistant. You are precise, concise, and casual."
+    },
+    "defaultCompletionSettings": {
+      "prompt": "",
+      "n_predict": 500,
+      "temperature": 0.1,
+      "top_k": 40,
+      "top_p": 0.95,
+      "tfs_z": 1,
+      "typical_p": 1,
+      "penalty_last_n": 64,
+      "penalty_repeat": 1,
+      "penalty_freq": 0,
+      "penalty_present": 0,
+      "mirostat": 0,
+      "mirostat_tau": 5,
+      "mirostat_eta": 0.1,
+      "penalize_nl": false,
+      "seed": 0,
+      "n_probs": 0,
+      "stop": [
+        "<|end|>"
+      ]
+    },
+    "completionSettings": {
+      "prompt": "",
+      "n_predict": 500,
+      "temperature": 0.1,
+      "top_k": 40,
+      "top_p": 0.95,
+      "tfs_z": 1,
+      "typical_p": 1,
+      "penalty_last_n": 64,
+      "penalty_repeat": 1,
+      "penalty_freq": 0,
+      "penalty_present": 0,
+      "mirostat": 0,
+      "mirostat_tau": 5,
+      "mirostat_eta": 0.1,
+      "penalize_nl": false,
+      "seed": 0,
+      "n_probs": 0,
+      "stop": [
+        "<|end|>"
+      ]
+    }
+  },
+  {
     "id": "default-llama-3.2-1b-instruct-q8_0.gguf",
     "name": "llama-3.2-1b-instruct (Q8_0)",
     "type": "Llama",
