@@ -1,5 +1,5 @@
 {
   "darwin": "2.0.2",
   "darwinUrl": "https://releases.nidum.ai/download/downloads/RAGDrive-v-2.0.2-b.dmg",
-  "mobile-llm-models": "7",
+  "mobile-llm-models": 7,
 }
