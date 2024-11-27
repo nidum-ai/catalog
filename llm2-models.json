@@ -6,7 +6,8 @@
     "file_name": "fireball_meta_llama3.2_8b_q4.gguf",
     "hf_link": "hf:mradermacher/Fireball-Meta-Llama-3.2-8B-Instruct-agent-003-128k-code-DPO-i1-GGUF/Fireball-Meta-Llama-3.2-8B-Instruct-agent-003-128k-code-DPO.i1-Q4_K_M.gguf",
     "category": "Specialized - Large",
-    "description": "Meta-Llama 3.2 8B is an instruction-tuned agent using 4-bit quantization (Needs 8GB RAM)"
+    "description": "Meta-Llama 3.2 8B is an instruction-tuned agent using 4-bit quantization (Needs 8GB RAM)",
+    "info_url": "https://github.com"
   },
   {
     "name": "Gemma 2 9B",
@@ -15,7 +16,8 @@
     "file_name": "gemma_2_9b_q2.gguf",
     "hf_link": "hf:bartowski/gemma-2-9b-it-GGUF/gemma-2-9b-it-IQ2_M.gguf",
     "category": "General Purpose - Small",
-    "description": "Gemma 2 9B Q2 is a small but high-performing and efficient model by Google (Needs 4GB RAM)"
+    "description": "Gemma 2 9B Q2 is a small but high-performing and efficient model by Google (Needs 4GB RAM)",
+    "info_url": "https://github.com"
   },
   {
     "name": "Llama 3.2 1B",
@@ -24,7 +26,8 @@
     "file_name": "llama3.2_1b_q8.gguf",
     "hf_link": "hf:mradermacher/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct.Q8_0.gguf",
     "category": "General Purpose - Small",
-    "description": "Llama 3.2 1B Q8 is a small and instruction-tuned model from Meta with higher precision quantization (Needs 2GB RAM)"
+    "description": "Llama 3.2 1B Q8 is a small and instruction-tuned model from Meta with higher precision quantization (Needs 2GB RAM)",
+    "info_url": "https://github.com"
   },
   {
     "name": "Llama 3.2 3B",
@@ -33,7 +36,8 @@
     "file_name": "llama3.2_3b_q4.gguf",
     "hf_link": "hf:mradermacher/Llama-3.2-3B-Instruct-i1-GGUF/Llama-3.2-3B-Instruct.i1-Q4_K_M.gguf",
     "category": "General Purpose - Medium",
-    "description": "Llama 3.2 3B Q4 is an instruction-tuned version optimized for performance with 4-bit quantization (Needs 3GB RAM)"
+    "description": "Llama 3.2 3B Q4 is an instruction-tuned version optimized for performance with 4-bit quantization (Needs 3GB RAM)",
+    "info_url": "https://github.com"
   },
   {
     "name": "Dolphin 2.9.4 Llama 3.2 8B",
@@ -42,7 +46,8 @@
     "file_name": "dolphin2.9.4_llama3.1_8b_q4.gguf",
     "hf_link": "hf:mradermacher/dolphin-2.9.4-llama3.1-8b-i1-GGUF/dolphin-2.9.4-llama3.1-8b.i1-Q4_K_M.gguf",
     "category": "Specialized - Large",
-    "description": "Dolphin 2.9.4 is a custom-tuned model based on Llama 3.2 8B, designed for specialized tasks with 4-bit quantization (Needs 8GB RAM)"
+    "description": "Dolphin 2.9.4 is a custom-tuned model based on Llama 3.2 8B, designed for specialized tasks with 4-bit quantization (Needs 8GB RAM)",
+    "info_url": "https://github.com"
   },
   {
     "name": "DeepSeek Coder 33B Instruct i1",
@@ -51,7 +56,8 @@
     "file_name": "deepseek_coder_33b_q4.gguf",
     "hf_link": "hf:mradermacher/deepseek-coder-33b-instruct-i1-GGUF/deepseek-coder-33b-instruct.i1-Q4_K_M.gguf",
     "category": "Specialized - Large",
-    "description": "DeepSeek Coder 33B is a highly specialized large model built for code generation and understanding with 4-bit quantization (Needs 13GB RAM)"
+    "description": "DeepSeek Coder 33B is a highly specialized large model built for code generation and understanding with 4-bit quantization (Needs 13GB RAM)",
+    "info_url": "https://github.com"
   },
   {
     "name": "Llama-3.1-Nemotron-70B-Instruct",
@@ -60,6 +66,7 @@
     "file_name": "Llama-3.1-Nemotron-70B-Instruct-HF.i1-Q4_K_M.gguf",
     "hf_link": "hf:mradermacher/Llama-3.1-Nemotron-70B-Instruct-HF-i1-GGUF/Llama-3.1-Nemotron-70B-Instruct-HF.i1-Q4_K_M.gguf",
     "category": "Specialized - Large",
-    "description": "Customized by NVIDIA to improve LLM responses through RLHF with REINFORCE and HelpSteer2. It ranks #1 on Arena Hard, AlpacaEval 2 LC, and GPT-4-Turbo MT-Bench."
+    "description": "Customized by NVIDIA to improve LLM responses through RLHF with REINFORCE and HelpSteer2. It ranks #1 on Arena Hard, AlpacaEval 2 LC, and GPT-4-Turbo MT-Bench.",
+    "info_url": "https://github.com"
   }
 ]
