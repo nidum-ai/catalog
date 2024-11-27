@@ -4,41 +4,47 @@
     "size": "4.70 GB",
     "id": "llama3.1",
     "category": "General Purpose - Medium",
-    "description": "Llama 3.1 8B Q4 is the latest state-of-the-art model from Meta (Needs 8GB RAM)"
+    "description": "Llama 3.1 8B Q4 is the latest state-of-the-art model from Meta (Needs 8GB RAM)",
+    "info_url": "https://github.com"
   },
   {
     "name": "Gemma 2 2B",
     "size": "1.60 GB",
     "id": "gemma2:9b",
     "category": "General Purpose - Small",
-    "description": "Gemma 2 2B Q4 is a small but high-performing and efficient model by Google (Needs 4GB RAM)"
+    "description": "Gemma 2 2B Q4 is a small but high-performing and efficient model by Google (Needs 4GB RAM)",
+    "info_url": "https://github.com"
   },
   {
     "name": "DeepSeek Coder V2 16B",
     "size": "8.90 GB",
     "id": "deepseek-coder-v2",
     "category": "Coding - Medium",
-    "description": "This Q4 open-source Mixture-of-Experts code language model for in code-specific tasks (Needs 9GB RAM)"
+    "description": "This Q4 open-source Mixture-of-Experts code language model for in code-specific tasks (Needs 9GB RAM)",
+    "info_url": "https://github.com"
   },
   {
     "name": "Dolphin Llama 3.1 8B",
     "size": "4.7GB GB",
     "id": "dolphin-llama3",
     "category": "Uncensored - Medium",
-    "description": "Uncensored Q4 version of Eric Hartford's fine-tuned models based on the Llama models (Needs 8GB RAM)"
+    "description": "Uncensored Q4 version of Eric Hartford's fine-tuned models based on the Llama models (Needs 8GB RAM)",
+    "info_url": "https://github.com"
   },
   {
     "name": "Llama 3.1 70B",
     "size": "43 GB",
     "id": "llama3.1:70b",
     "category": "General Purpose - Large",
-    "description": "Llama 3.1 70B Q4 is the latest state-of-the-art model from Meta (Needs 50GB RAM)"
+    "description": "Llama 3.1 70B Q4 is the latest state-of-the-art model from Meta (Needs 50GB RAM)",
+    "info_url": "https://github.com"
   },
   {
     "name": "LLaVA 7B (Vision)",
     "size": "4.70 GB",
     "id": "llava:7b",
     "category": "Vision - Medium",
-    "description": "A Q4 AI model with image processing capabilities (Needs 8GB RAM)"
+    "description": "A Q4 AI model with image processing capabilities (Needs 8GB RAM)",
+    "info_url": "https://github.com"
   }
 ]
