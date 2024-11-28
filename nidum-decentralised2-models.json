@@ -1,5 +1,5 @@
 {
-  "url": "https://cluster.chain.nidum.ai/v1",
+  "url": "https://cluster.chain.nidum.ai",
   "models": [
     {
       "id": "nemotron:70b-instruct-q8_0",
