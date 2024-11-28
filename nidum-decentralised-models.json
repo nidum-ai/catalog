@@ -1,8 +1,8 @@
 {
   "url": "https://cluster.chain.nidum.ai/api/chat",
   "model": "nemotron:70b-instruct-q8_0",
-  "ollama-url": "https://cluster.chain.nidum.ai/v1",
-  "ollama-models": [
+  "ollama_url": "https://cluster.chain.nidum.ai/v1",
+  "ollama_models": [
     {
       "id": "nemotron:70b-instruct-q8_0",
       "name": "nemotron:70b-instruct-q8_0"
