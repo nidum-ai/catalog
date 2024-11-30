@@ -1,4 +1,4 @@
 {
   "url": "https://cluster.chain.nidum.ai/api/chat",
-  "model": "nemotron:70b-instruct-q8_0"
+  "model": "nidum_foundational_model_text"
 }
