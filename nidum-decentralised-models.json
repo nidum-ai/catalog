@@ -1,4 +1,4 @@
 {
-  "url": "https://cluster.chain.nidum.ai/api/chat",
+  "url": "https://clusterai.chain.nidum.ai/api/chat",
   "model": "nidum_foundational_model_text"
 }
