@@ -391,7 +391,7 @@
   },
   {
     "id": "llama-3.2-3b-instruct-q8_0.gguf",
-    "name": "llama-3.2-3b-instruct q8_k",
+    "name": "llama-3.2-3b-instruct (q8_k)",
     "type": "Llama",
     "size": "3.42",
     "params": "3.21",
