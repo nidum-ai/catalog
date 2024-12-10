@@ -1,5 +1,5 @@
 [  {
-  "id": "nidum/Nidum-Llama-3.2-3B-Uncensored-GGUF",
+  "id": "nidum/Nidum-3.2-3B-Uncensored-GGUF",
   "name": "Nidum-3B-Uncensored (Q4_K_M)",
   "type": "Llama",
   "size": "2.02",
